@@ -1,0 +1,28 @@
+{
+  "name": "starwars_names",
+  "version": "1.0.0",
+  "description": "get random starwars names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msrdinesh/starwars_names.git"
+  },
+  "keywords": [
+    "random",
+    "starwars",
+    "opensource",
+    "package"
+  ],
+  "author": "MSR Dinesh <msd11@iitbbs.ac.in>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msrdinesh/starwars_names/issues"
+  },
+  "homepage": "https://github.com/msrdinesh/starwars_names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
