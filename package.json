@@ -1,5 +1,5 @@
 {
-  "name": "starwars_names",
+  "name": "@msrdinesh/starwars_names_",
   "version": "1.0.0",
   "description": "get random starwars names",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "opensource",
     "package"
   ],
-  "author": "MSR Dinesh <msd11@iitbbs.ac.in>",
+  "author": "MSR Dinesh <sairaghavendradineshm@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/msrdinesh/starwars_names/issues"
